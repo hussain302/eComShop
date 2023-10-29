@@ -1,0 +1,17 @@
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\bin\Debug\net7.0\eComShop.Infrastructure.deps.json
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\bin\Debug\net7.0\eComShop.Infrastructure.runtimeconfig.json
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\bin\Debug\net7.0\eComShop.Infrastructure.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\bin\Debug\net7.0\eComShop.Infrastructure.pdb
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.AssemblyInfo.cs
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\refint\eComShop.Infrastructure.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.pdb
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.genruntimeconfig.cache
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\ref\eComShop.Infrastructure.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\bin\Debug\net7.0\eComShop.Domain.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\bin\Debug\net7.0\eComShop.Domain.pdb
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Infrastructure\obj\Debug\net7.0\eComShop.Infrastructure.csproj.CopyComplete

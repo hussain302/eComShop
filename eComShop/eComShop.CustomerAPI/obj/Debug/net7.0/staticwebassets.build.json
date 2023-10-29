@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3chGt8K0+RrM+YNI1iRlMpxSLVkpxfO52lSp2wiWRQg=",
+  "Source": "eComShop.CustomerAPI",
+  "BasePath": "_content/eComShop.CustomerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

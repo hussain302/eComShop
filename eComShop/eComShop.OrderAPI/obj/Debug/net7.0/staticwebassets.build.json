@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n4gbFZhkvv397cZ+01GyxU6nb7/HWnCHCEU/hM7lc1o=",
+  "Source": "eComShop.OrderAPI",
+  "BasePath": "_content/eComShop.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

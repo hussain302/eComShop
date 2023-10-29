@@ -1,0 +1,11 @@
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\bin\Debug\net7.0\eComShop.Tests.deps.json
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\bin\Debug\net7.0\eComShop.Tests.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\bin\Debug\net7.0\eComShop.Tests.pdb
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\eComShop.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\eComShop.Tests.AssemblyInfoInputs.cache
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\eComShop.Tests.AssemblyInfo.cs
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\eComShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\eComShop.Tests.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\refint\eComShop.Tests.dll
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\eComShop.Tests.pdb
+C:\Users\muhammad.hussain\Desktop\Learning\ArchitecureMastery\DDD\eComShop\eComShop\eComShop.Tests\obj\Debug\net7.0\ref\eComShop.Tests.dll
