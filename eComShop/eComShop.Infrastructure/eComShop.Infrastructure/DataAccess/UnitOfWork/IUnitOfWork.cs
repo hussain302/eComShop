@@ -12,6 +12,7 @@ namespace eComShop.Infrastructure.DataAccess.UnitOfWork
         ICategoryRepository Category { get; }
         //IProductRepository Product { get; }
         //IOrderRepository Order { get; }
-        Task<int> Save();
+        void Dispose();
+        Task<int> SaveAsync();
     }
 }

@@ -1,29 +1,28 @@
 ﻿using eComShop.Domain.Repositories;
-using eComShop.Infrastructure.DataAccess.Repositories;
 using eComShop.Persistence.Contexts;
 
 namespace eComShop.Infrastructure.DataAccess.UnitOfWork
 {
-    public class UnitOfWork : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork, IDisposable
     {
-        public ICategoryRepository Category { get; private set; }
-        //public IProductRepository Product { get; private set; }
-        
-       // public IOrderRepository Order { get; private set; }
-
         private readonly SqlDbContext _context;
+
         public UnitOfWork(SqlDbContext context)
         {
-            _context = context;
-            Category = new CategoryRepository(context);
-            //Product = new ProductRepository(context);           
-            //Order = new OrderRepository(context);
+            _context = context ?? throw new ArgumentNullException(nameof(context));
         }
 
-        public async Task<int> Save()
+        public ICategoryRepository Category { get; private init; }
+        public async Task<int> SaveAsync() => await _context.SaveChangesAsync();      
+        
+        public void Dispose()
         {
-            int response = await _context.SaveChangesAsync();
-            return response;
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+        protected virtual void Dispose(bool disposing)
+        {
+            if (disposing) _context.Dispose();            
         }
     }
 }

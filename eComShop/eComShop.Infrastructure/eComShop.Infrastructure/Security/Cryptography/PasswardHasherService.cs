@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
 using eComShop.Domain.ValueObjects;
 
-namespace eComShop.Infrastructure.Cryptography
+namespace eComShop.Infrastructure.Security.Cryptography
 {
     /// <summary>
     /// Represents the password hasher, used for hashing passwords and verifying hashed passwords.
@@ -40,7 +40,7 @@ namespace eComShop.Infrastructure.Cryptography
             if (providedPassword is null) throw new ArgumentNullException(nameof(providedPassword));
             byte[] decodedHashedPassword = Convert.FromBase64String(passwordHash);
             if (decodedHashedPassword.Length == 0) return false;
-                        bool verified = VerifyPasswordHashInternal(decodedHashedPassword, providedPassword);
+            bool verified = VerifyPasswordHashInternal(decodedHashedPassword, providedPassword);
             return verified;
         }
 
@@ -124,7 +124,7 @@ namespace eComShop.Infrastructure.Cryptography
         private static bool ByteArraysEqual(byte[] a, byte[] b)
         {
             if (a == null && b == null) return true;
-            
+
 
             if (a == null || b == null || a.Length != b.Length)
             {

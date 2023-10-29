@@ -7,12 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.12" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\eComShop.Infrastructure\eComShop.Infrastructure\eComShop.Infrastructure.csproj" />
+    <ProjectReference Include="..\eComShop.Persistence\eComShop.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
